@@ -6,7 +6,6 @@
 package assignment.service;
 
 import assignment.utils.UserBean;
-import assignment.common.HeadStart;
 import assignment.interfaces.Writable;
 import assignment.utils.Conversions;
 import java.io.BufferedWriter;

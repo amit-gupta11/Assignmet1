@@ -5,9 +5,7 @@
  */
 package assignment.utils;
 
-import assignment.common.HeadStart;
 import assignment.service.Logs;
-import java.util.ArrayList;
 /**
  *
  * @author Lenovo

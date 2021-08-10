@@ -2,8 +2,6 @@ package assignment.service;
 
 import assignment.interfaces.Writable;
 import static assignment.service.ParsingRecordData.parseDataMethod;
-import static assignment.service.ParsingRecordData.rows;
-import assignment.utils.UserBean;
 import assignment.utils.Validatior;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
